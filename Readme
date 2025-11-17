@@ -1,1 +1,8 @@
+#WebBrowserPage Using C# 
 
+#Introduction
+This project is a simple web browser built using C# Windows Forms.
+It enables users to send HTTP requests, view raw HTML responses, manage browsing history, handle bookmarks, and navigate using basic browser controls.
+
+The browser also displays HTTP status codes and identifies the first five hyperlinks on any webpage.
+Persistent data storage is implemented using SQLite (for bookmarks) and text files (for history).
